@@ -25,12 +25,12 @@ This game challenges you with riddles, moral choices, and interconnected storyli
 ## Compilation
 Open your terminal or command prompt and compile the source code.
 * **On Windows (with MinGW):**
-gcc tds.c -o travellers_dilemma -lwinmm
+* gcc tds.c -o travellers_dilemma -lwinmm
 
 * **On Linux/macOS (sound functions will need modification):**
-gcc tds.c -o travellers_dilemma
+* gcc tds.c -o travellers_dilemma
 
-## How to Play
+## 🚀How to Play
 When given a choice, enter the corresponding number.
 
 For all ciphers and riddles, your answer must be in CAPITAL LETTERS with no spaces, or it will be marked as incorrect.
